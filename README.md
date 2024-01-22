@@ -1,5 +1,6 @@
-#Ejercicio 1
+#Ejercicio 1 Refactorizado
 #Este ejercicio nos sirve para introducir varias palabras y saber cual es la mas corta
+Se modifica el metodo y se cambia a void, se cambia el metodo a publico
 
 #Ejercicio 2
 #En este ejercicio escribimos una frase y queremos saber el numero de espacios que tiene
